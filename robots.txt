@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chr-asmane-cr.github.io/my-notes/sitemap.xml
